@@ -2,6 +2,10 @@
 
 A tiny macOS menu-bar app that reverses **mouse-wheel** scrolling only. Your trackpad (and Magic Mouse) keep natural scrolling, and a regular notched mouse wheel scrolls the Windows way.
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/slokey)
+
+ScrollFlip is free. If it helps you, you can [buy me a coffee](https://buymeacoffee.com/slokey) ☕
+
 ## How it works
 
 macOS has one "natural scrolling" switch for both mouse and trackpad. ScrollFlip watches the stream of scroll events. Trackpad events are marked as *continuous* and have gesture phases; notched wheel events don't. ScrollFlip flips the direction of the wheel events only.
@@ -34,3 +38,7 @@ This compiles `main.swift`, ad-hoc signs the app, and installs it to `/Applicati
 ## Support
 
 ScrollFlip is free. If it saves you some annoyance, you can [buy me a coffee](https://buymeacoffee.com/slokey) ☕
+
+## License
+
+MIT. See [LICENSE](LICENSE).
