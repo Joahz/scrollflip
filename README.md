@@ -1,5 +1,7 @@
 # ScrollFlip
 
+<p align="center"><img src="docs/banner.png" alt="ScrollFlip menu-bar app: flip the mouse wheel, keep the trackpad natural" width="100%"></p>
+
 A tiny macOS menu-bar app that reverses **mouse-wheel** scrolling only. Your trackpad (and Magic Mouse) keep natural scrolling, and a regular notched mouse wheel scrolls the Windows way.
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/slokey)
