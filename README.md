@@ -30,3 +30,7 @@ This compiles `main.swift`, ad-hoc signs the app, and installs it to `/Applicati
 - **Reverse Mouse Wheel** turns the flip on or off.
 - **Launch at Login** adds or removes `~/Library/LaunchAgents/com.josh.scrollflip.plist`.
 - **Quit ScrollFlip**
+
+## Support
+
+ScrollFlip is free. If it saves you some annoyance, you can [buy me a coffee](https://buymeacoffee.com/slokey) ☕
